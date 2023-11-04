@@ -1,0 +1,61 @@
+{
+  "Manifest": {
+    "Info": "Woolpack v1.0 Manifest",
+    "Name": "3D Mark",
+    "Author": "A Pretty Cool Program",
+    "Version": "231104",
+    "Description": "3D Mark."
+  },
+  "AmazonLibrary": {
+    "AppPath": "3DMark",
+    "DataToRemove": [
+      "Futuremark_SystemInfo_5_64_1188.msi",
+      "Futuremark_SystemInfo_5_64_1188.msi",
+      "SystemInfoSetupAssistant.exe"
+    ],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "EaLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "EpicLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "GogLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "HumbleLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "ItchLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "UbisoftLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "SteamLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "Manifest": {
+    "Info": "Woolpack v1.0 Manifest",
+    "Name": "App Name",
+    "Author": "Manifest author",
+    "Version": "YYMMDD",
+    "Description": "A new manifest."
+  },
+  "AmazonLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "EaLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "EpicLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "GogLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "HumbleLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "ItchLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "UbisoftLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "SteamLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  }
+}
