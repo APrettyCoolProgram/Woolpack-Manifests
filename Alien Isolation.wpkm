@@ -1,12 +1,12 @@
 {
   "Manifest": {
-    "Name": "Age of Empires 3",
+    "Name": "Alien Isolation",
     "Author": "A Pretty Cool Program",
     "Version": "231104",
-    "Description": "Age of Empires 3.",
+    "Description": "Alien Isolation.",
   },
   "SteamLibrary": {
-    "AppPath": "Age of Empires 3",
+    "AppPath": "Alien Isolation",
     "DataToRemove": [
       "Path-To-Data-To-Remove"
     ],
