@@ -57,7 +57,7 @@
     "SteamLibrary": {
     "AppPath": "Back 4 Blood",
     "DirectoriesToRemove": [
-      "Extras"
+      "Engine\\Extras"
     ],
     "FilesToRemove": [],
     "DirectoriesToMove": [],
