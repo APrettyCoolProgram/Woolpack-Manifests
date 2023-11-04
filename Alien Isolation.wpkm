@@ -8,52 +8,68 @@
   },
   "AmazonLibrary": {
     "AppPath": "",
-    "DataToRemove": [],
-    "DataToMove": [],
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
     "RemoveLogs": false
   },
   "EaLibrary": {
     "AppPath": "",
-    "DataToRemove": [],
-    "DataToMove": [],
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
     "RemoveLogs": false
   },
   "EpicLibrary": {
     "AppPath": "",
-    "DataToRemove": [],
-    "DataToMove": [],
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
     "RemoveLogs": false
   },
   "GogLibrary": {
     "AppPath": "",
-    "DataToRemove": [],
-    "DataToMove": [],
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
     "RemoveLogs": false
   },
   "HumbleLibrary": {
     "AppPath": "",
-    "DataToRemove": [],
-    "DataToMove": [],
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
     "RemoveLogs": false
   },
   "ItchLibrary": {
     "AppPath": "",
-    "DataToRemove": [],
-    "DataToMove": [],
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+    "SteamLibrary": {
+    "AppPath": "Alien Isolation",
+    "DirectoriesToRemove": [
+      "Extras"
+    ],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
     "RemoveLogs": false
   },
   "UbisoftLibrary": {
     "AppPath": "",
-    "DataToRemove": [],
-    "DataToMove": [],
-    "RemoveLogs": false
-  },
-  "SteamLibrary": {
-    "AppPath": "Alien Isolation",
-    "DataToRemove": [
-      "Extras"
-    ],
-    "DataToMove": [],
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
     "RemoveLogs": false
   }
 }
