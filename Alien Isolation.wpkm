@@ -1,0 +1,59 @@
+{
+  "Manifest": {
+    "Info": "Woolpack v1.0 Manifest",
+    "Name": "Alien Isolation",
+    "Author": "A Pretty Cool Program",
+    "Version": "231104",
+    "Description": "Alien Isolation."
+  },
+  "AmazonLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "EaLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "EpicLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "GogLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "HumbleLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "ItchLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "UbisoftLibrary": {
+    "AppPath": "",
+    "DataToRemove": [],
+    "DataToMove": [],
+    "RemoveLogs": false
+  },
+  "SteamLibrary": {
+    "AppPath": "Alien Isolation",
+    "DataToRemove": [
+      "Extras"
+    ],
+    "DataToMove": [],
+    "RemoveLogs": false
+  }
+}
