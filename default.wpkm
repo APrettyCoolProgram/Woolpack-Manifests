@@ -1,0 +1,28 @@
+{
+  "Manifest": {
+    "Author": "Manifest author",
+    "Version": "YYMMDD",
+    "Description": "A new manifest.",
+    "URL": "https://raw.githubusercontent.com/APrettyCoolProgram/Woolpack-Manifests/main/Steam/Age%20Of%20Empires%203.wpkm"
+  },
+  "SteamLibrary": {
+    "AppName": "Game Name",
+    "AppPath": "Path-To-Game",
+    "DataToRemove": [
+      "Path-To-Data-To-Remove"
+    ],
+    "DataToMove": [
+      "Path-To-Data-To-Move"
+    ]
+  },
+  "AmazonLibrary": {
+    "AppName": "Game Name",
+    "AppPath": "Path-To-Game",
+    "DataToRemove": [
+      "Path-To-Data-To-Remove"
+    ],
+    "DataToMove": [
+      "Path-To-Data-To-Move"
+    ]
+  }
+}
