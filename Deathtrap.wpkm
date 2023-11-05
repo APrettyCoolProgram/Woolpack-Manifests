@@ -1,0 +1,75 @@
+{
+  "Manifest": {
+    "Info": "Woolpack v1.0 Manifest",
+    "Name": "Back 4 Blood",
+    "Author": "A Pretty Cool Program",
+    "Version": "231104",
+    "Description": "Back 4 Blood"
+  },
+  "AmazonLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "EaLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "EpicLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "GogLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "HumbleLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "ItchLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+    "SteamLibrary": {
+    "AppPath": "Back 4 Blood",
+    "DirectoriesToRemove": [
+      "Engine\\Extras"
+    ],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "UbisoftLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  }
+}
