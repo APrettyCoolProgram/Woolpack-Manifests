@@ -1,0 +1,73 @@
+{
+  "Manifest": {
+    "Info": "Woolpack v1.0 Manifest",
+    "Name": "Altitude",
+    "Author": "A Pretty Cool Program",
+    "Version": "231108",
+    "Description": "Altitude"
+  },
+  "AmazonLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "EaLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "EpicLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "GogLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "HumbleLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "ItchLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+    "SteamLibrary": {
+    "AppPath": "Altitude",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "UbisoftLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  }
+}

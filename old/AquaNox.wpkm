@@ -1,0 +1,76 @@
+{
+  "Manifest": {
+    "Info": "Woolpack v1.0 Manifest",
+    "Name": "AquaNox",
+    "Author": "A Pretty Cool Program",
+    "Version": "231108",
+    "Description": "AquaNox"
+  },
+  "AmazonLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "EaLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "EpicLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "GogLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "HumbleLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "ItchLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+    "SteamLibrary": {
+    "AppPath": "AquaNox",
+    "DirectoriesToRemove": [
+      redist,
+      wise
+    ],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  },
+  "UbisoftLibrary": {
+    "AppPath": "",
+    "DirectoriesToRemove": [],
+    "FilesToRemove": [],
+    "DirectoriesToMove": [],
+    "FilesToMove": [],
+    "RemoveLogs": false
+  }
+}
